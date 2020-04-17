@@ -8,7 +8,7 @@ var map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/mapbox/dark-v10',
   sprite: 'mapbox://sprites/mapbox/dark-v10',
-  zoom: 7.9,
+  zoom: 13,
   center: [-0.118092, 51.509865],
   transition: {
     delay: 100,
