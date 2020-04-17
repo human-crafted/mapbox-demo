@@ -1,0 +1,1167 @@
+{
+  "version": "0.2.0",
+  "data": {
+    "status_changes": [
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 1,
+        "event_type": "available",
+        "event_type_reason": "service_start",
+        "event_time": "1587017384",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587017384"
+          },
+          "geometry": {
+            "coordinates": [-0.45373826791178073, 51.55325742230306],
+            "type": "Point"
+          }
+        }
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "service_start",
+        "event_time": "1587020434",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587020434"
+          },
+          "geometry": {
+            "coordinates": [-0.2007541709747837, 51.65097508835241],
+            "type": "Point"
+          }
+        }
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 1,
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587023111",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587017384"
+          },
+          "geometry": {
+            "coordinates": [-0.45373826791178073, 51.55325742230306],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["18280226-742f-46d3-a0f1-f7e7b02272b9"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.6013324716355791,
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587024264",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587024264"
+          },
+          "geometry": {
+            "coordinates": [-0.4120133713990812, 51.51385281127382],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["18280226-742f-46d3-a0f1-f7e7b02272b9"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587022921",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587020434"
+          },
+          "geometry": {
+            "coordinates": [-0.2007541709747837, 51.65097508835241],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["a540d3b3-39d4-4e12-9f4d-c9a1f524a0fd"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587024277",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587024277"
+          },
+          "geometry": {
+            "coordinates": [-0.2071152749488989, 51.595650381289815],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["a540d3b3-39d4-4e12-9f4d-c9a1f524a0fd"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.6013324716355791,
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587026696",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587024264"
+          },
+          "geometry": {
+            "coordinates": [-0.4120133713990812, 51.51385281127382],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["4a0d8b80-5b47-451e-b237-7e01185bf2fc"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.34483602906849214,
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587027877",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587027877"
+          },
+          "geometry": {
+            "coordinates": [-0.3636458835789314, 51.47610311047798],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["4a0d8b80-5b47-451e-b237-7e01185bf2fc"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587027429",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587024277"
+          },
+          "geometry": {
+            "coordinates": [-0.2071152749488989, 51.595650381289815],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["a7f48806-b0fa-4098-b01e-48cdd5e2ff47"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587028419",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587028419"
+          },
+          "geometry": {
+            "coordinates": [-0.16446488864485986, 51.565051703350164],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["a7f48806-b0fa-4098-b01e-48cdd5e2ff47"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.34483602906849214,
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587029330",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587027877"
+          },
+          "geometry": {
+            "coordinates": [-0.3636458835789314, 51.47610311047798],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["745ce207-3168-44af-8686-322e9021a5e9"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.2289648431104619,
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587029698",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587029698"
+          },
+          "geometry": {
+            "coordinates": [-0.35317594701988964, 51.462525059441575],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["745ce207-3168-44af-8686-322e9021a5e9"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587030681",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587028419"
+          },
+          "geometry": {
+            "coordinates": [-0.16446488864485986, 51.565051703350164],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["821a84ff-016f-49a8-9832-58b665fe311d"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587031899",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587031899"
+          },
+          "geometry": {
+            "coordinates": [-0.12580086673605076, 51.60871458826297],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["821a84ff-016f-49a8-9832-58b665fe311d"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.2289648431104619,
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587032980",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587029698"
+          },
+          "geometry": {
+            "coordinates": [-0.35317594701988964, 51.462525059441575],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["46f81b95-7f0a-474a-ab66-6b7d8b163da0"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.11984879775469363,
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587033789",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587033789"
+          },
+          "geometry": {
+            "coordinates": [-0.3021805971253664, 51.471718415795735],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["46f81b95-7f0a-474a-ab66-6b7d8b163da0"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587035328",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587031899"
+          },
+          "geometry": {
+            "coordinates": [-0.12580086673605076, 51.60871458826297],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["24b7074d-a1a0-4214-843b-2aa94e2c44fe"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587035797",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587035797"
+          },
+          "geometry": {
+            "coordinates": [-0.15600915862595968, 51.6127411588038],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["24b7074d-a1a0-4214-843b-2aa94e2c44fe"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.11984879775469363,
+        "event_type": "unavailable",
+        "event_type_reason": "low_battery",
+        "event_time": "1587033789",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587033789"
+          },
+          "geometry": {
+            "coordinates": [-0.3021805971253664, 51.471718415795735],
+            "type": "Point"
+          }
+        }
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587037869",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587035797"
+          },
+          "geometry": {
+            "coordinates": [-0.15600915862595968, 51.6127411588038],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["c8018b3b-ebca-4e9e-a4cb-c1aaf35e3770"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587038482",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587038482"
+          },
+          "geometry": {
+            "coordinates": [-0.1389778039459126, 51.589981652073554],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["c8018b3b-ebca-4e9e-a4cb-c1aaf35e3770"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587040964",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587038482"
+          },
+          "geometry": {
+            "coordinates": [-0.1389778039459126, 51.589981652073554],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["4987795f-9b19-4bdf-a0c1-164f8685b7fb"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587041264",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587041264"
+          },
+          "geometry": {
+            "coordinates": [-0.13108988836827817, 51.60126372692458],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["4987795f-9b19-4bdf-a0c1-164f8685b7fb"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587041671",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587041264"
+          },
+          "geometry": {
+            "coordinates": [-0.13108988836827817, 51.60126372692458],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["7ff7af88-1306-4aed-a7ce-09b82e5395ed"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587042422",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587042422"
+          },
+          "geometry": {
+            "coordinates": [-0.1674084979905674, 51.62211177911052],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["7ff7af88-1306-4aed-a7ce-09b82e5395ed"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 1,
+        "event_time": "1587033789",
+        "event_type": "available",
+        "event_type_reason": "maintenance_drop_off",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587033789"
+          },
+          "geometry": {
+            "coordinates": [-0.2277904262682976, 51.52638821655761],
+            "type": "Point"
+          }
+        }
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587045776",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587042422"
+          },
+          "geometry": {
+            "coordinates": [-0.1674084979905674, 51.62211177911052],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["6f87f302-4938-45bf-b63d-dbb1f2e795d7"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587046947",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587046947"
+          },
+          "geometry": {
+            "coordinates": [-0.11422986439638275, 51.65686576496184],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["6f87f302-4938-45bf-b63d-dbb1f2e795d7"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 1,
+        "event_time": "1587036591",
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587033789"
+          },
+          "geometry": {
+            "coordinates": [-0.2277904262682976, 51.52638821655761],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["634f1348-94a7-4ab7-8fc4-143796372e63"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.6836898138421077,
+        "event_time": "1587037255",
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587037255"
+          },
+          "geometry": {
+            "coordinates": [-0.25836729047040213, 51.54580908437328],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["634f1348-94a7-4ab7-8fc4-143796372e63"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587047900",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587046947"
+          },
+          "geometry": {
+            "coordinates": [-0.11422986439638275, 51.65686576496184],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["b323385c-6dda-4ecf-95e8-745e0699c793"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587048527",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587048527"
+          },
+          "geometry": {
+            "coordinates": [-0.15556206317087046, 51.657036709900815],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["b323385c-6dda-4ecf-95e8-745e0699c793"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.6836898138421077,
+        "event_time": "1587040217",
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587037255"
+          },
+          "geometry": {
+            "coordinates": [-0.25836729047040213, 51.54580908437328],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["795457ad-effb-4727-a532-c6a5fbc950ca"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.37862977674585885,
+        "event_time": "1587041594",
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587041594"
+          },
+          "geometry": {
+            "coordinates": [-0.2882772910904452, 51.59897280803394],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["795457ad-effb-4727-a532-c6a5fbc950ca"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587048815",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587048527"
+          },
+          "geometry": {
+            "coordinates": [-0.15556206317087046, 51.657036709900815],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["f78c32d7-ddce-43cb-9191-11ded9a71cf1"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587049296",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587049296"
+          },
+          "geometry": {
+            "coordinates": [-0.14210375888977453, 51.674831886290285],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["f78c32d7-ddce-43cb-9191-11ded9a71cf1"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.37862977674585885,
+        "event_time": "1587044561",
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587041594"
+          },
+          "geometry": {
+            "coordinates": [-0.2882772910904452, 51.59897280803394],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["1ef33c11-e588-4e00-9d56-60c3831940bd"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.2036009367990815,
+        "event_time": "1587045744",
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587045744"
+          },
+          "geometry": {
+            "coordinates": [-0.3438501199183443, 51.565017088945126],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["1ef33c11-e588-4e00-9d56-60c3831940bd"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587049916",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587049296"
+          },
+          "geometry": {
+            "coordinates": [-0.14210375888977453, 51.674831886290285],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["bbabd9a4-8d9d-4a22-8e69-0057512494a0"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587051433",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587051433"
+          },
+          "geometry": {
+            "coordinates": [-0.23801588263483636, 51.657116948260615],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["bbabd9a4-8d9d-4a22-8e69-0057512494a0"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.2036009367990815,
+        "event_time": "1587046148",
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587045744"
+          },
+          "geometry": {
+            "coordinates": [-0.3438501199183443, 51.565017088945126],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["e89ad0f0-5353-4047-8347-475d6be1c1d3"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.08477266047951643,
+        "event_time": "1587047713",
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587047713"
+          },
+          "geometry": {
+            "coordinates": [-0.43470899223184367, 51.595165200682565],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["e89ad0f0-5353-4047-8347-475d6be1c1d3"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587053987",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587051433"
+          },
+          "geometry": {
+            "coordinates": [-0.23801588263483636, 51.657116948260615],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["6fb660c9-1834-459e-b836-197af357df72"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587055086",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587055086"
+          },
+          "geometry": {
+            "coordinates": [-0.1672624506145505, 51.64739834846212],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["6fb660c9-1834-459e-b836-197af357df72"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.08477266047951643,
+        "event_time": "1587047713",
+        "event_type": "unavailable",
+        "event_type_reason": "low_battery",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587047713"
+          },
+          "geometry": {
+            "coordinates": [-0.43470899223184367, 51.595165200682565],
+            "type": "Point"
+          }
+        }
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 1,
+        "event_time": "1587047713",
+        "event_type": "available",
+        "event_type_reason": "maintenance_drop_off",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587047713"
+          },
+          "geometry": {
+            "coordinates": [-0.17359342011892492, 51.6090599087212],
+            "type": "Point"
+          }
+        }
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_time": "1587055112",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587055086"
+          },
+          "geometry": {
+            "coordinates": [-0.1672624506145505, 51.64739834846212],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["2b5f52c9-4398-476a-bec1-bf53b14bf31e"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_time": "1587055691",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587055691"
+          },
+          "geometry": {
+            "coordinates": [-0.18767730774902083, 51.6273942986152],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["2b5f52c9-4398-476a-bec1-bf53b14bf31e"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 1,
+        "event_time": "1587047741",
+        "event_type": "reserved",
+        "event_type_reason": "user_pick_up",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587047713"
+          },
+          "geometry": {
+            "coordinates": [-0.17359342011892492, 51.6090599087212],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["ef38d877-8fee-4f5b-a1ef-b52085d66568"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.5526367965023135,
+        "event_time": "1587049246",
+        "event_type": "available",
+        "event_type_reason": "user_drop_off",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587049246"
+          },
+          "geometry": {
+            "coordinates": [-0.19647375608596876, 51.549134091777184],
+            "type": "Point"
+          }
+        },
+        "associated_trips": ["ef38d877-8fee-4f5b-a1ef-b52085d66568"]
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "d83e6911-669b-4e1e-b1bb-cc90fb69ee18",
+        "vehicle_id": "P0MH2S",
+        "vehicle_type": "car",
+        "propulsion_type": ["combustion"],
+        "event_type": "removed",
+        "event_type_reason": "service_end",
+        "event_time": "1587066654",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587066654"
+          },
+          "geometry": {
+            "coordinates": [-0.18767730774902083, 51.6273942986152],
+            "type": "Point"
+          }
+        }
+      },
+      {
+        "provider_id": "9b52d637-5cce-4342-8440-5ce70a3cfdf0",
+        "provider_name": "Bird",
+        "device_id": "eed0ed10-d083-4cc8-8aaf-b7b39f71713d",
+        "vehicle_id": "A5LT88",
+        "vehicle_type": "scooter",
+        "propulsion_type": ["electric"],
+        "battery_pct": 0.5526367965023135,
+        "event_time": "1587068800",
+        "event_type": "removed",
+        "event_type_reason": "service_end",
+        "event_location": {
+          "type": "Feature",
+          "properties": {
+            "timestamp": "1587068800"
+          },
+          "geometry": {
+            "coordinates": [-0.19647375608596876, 51.549134091777184],
+            "type": "Point"
+          }
+        }
+      }
+    ]
+  }
+}

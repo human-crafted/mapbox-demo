@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point of Interest 1",
+        "icon": "scooter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.15483856201171872, 51.498270816123465]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Point of Interest 2",
+        "icon": "bicycle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.10797500610351562, 51.49217905994637]
+      }
+    }
+  ]
+}
